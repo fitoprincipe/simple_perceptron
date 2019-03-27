@@ -1,2 +1,3 @@
-# simple_perceptron
+# Simple perceptron
+
 A simple perceptron example in Python

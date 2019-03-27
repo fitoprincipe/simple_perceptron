@@ -1,0 +1,5 @@
+# any checkpoint
+**/.ipynb_checkpoints
+
+# IntelliJ IDEA
+.idea/
